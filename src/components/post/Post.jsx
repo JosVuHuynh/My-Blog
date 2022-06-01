@@ -1,6 +1,6 @@
 import React from 'react';
 import './post.css'
-import postImg from '../assets/images/post.jpeg'
+import postImg from '../../assets/images/post.jpeg'
 
 function Post(props) {
     return (

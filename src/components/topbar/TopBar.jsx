@@ -1,13 +1,13 @@
 import React from 'react';
 import './topbar.css'
-import avatar from '../assets/images/avatar.jpeg'
+import avatar from '../../assets/images/avatar.jpeg'
 function TopBar() {
     return (
         <div className='top'>
             <div className="topLeft">
                 <i className="topIcon fa-brands fa-facebook-square"></i>
                 <i className="topIcon fa-brands fa-twitter-square"></i>
-                <i className="topIcon fa-brands fa-instagram-square"></i>
+                <i className="topIcon fa-brands fa-linkedin"></i>
             </div>
             <div className="topCenter">
                 <ul className="topList">
